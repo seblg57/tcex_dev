@@ -8,6 +8,12 @@ This app connects to your OpenSearch cluster and retrieves key information about
 
 ---
 
+
+![Screenshot_1193](https://github.com/user-attachments/assets/bb35c511-c5fe-4a35-958d-8397b975f72f)
+
+
+
+
 ## Features
 
 - Checks cluster health status (`green`, `yellow`, `red`)
