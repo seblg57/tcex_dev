@@ -22,10 +22,10 @@ This utility is ideal for verifying threat intelligence sources, validating doma
 
 ## 📦 Installation
 Import the app via **TC Exchange** or deploy it manually with:
-```bash
-tcex package
-tcex install
+
 
 ## 🖼️ Example Playbook Execution
 
-![Netcheck Playbook](./screenshot_playbook.png)
+
+![Screenshot_1190](https://github.com/user-attachments/assets/2f1ca32c-aa91-446c-9f79-8db415eef276)
+![Screenshot_1191](https://github.com/user-attachments/assets/e1a26ea4-dc8e-4989-a876-db39740abc49)
